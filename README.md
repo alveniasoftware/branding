@@ -8,6 +8,8 @@
 </div> 
 
 ## Table of Contents
+- [Colors](/color)
+    - [Company](/color/company.md)
 - [Logos](/logo/)
     - [Company](/logo/company/)
         - [Inverse](/logo/company/inverse.png)
