@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/company/transparent-blue.png" alt="Logo" width="200" height="200">
+  <img src="logo/company/transparent-blue.svg" alt="Logo" width="200" height="200">
   <h3 align="center">Branding</h3>
 
   <p align="center">
@@ -12,10 +12,10 @@
     - [Company](/color/company.md)
 - [Logos](/logo/)
     - [Company](/logo/company/)
-      - [Inverse](/logo/company/inverse.png)
-      - [Original](/logo/company/original.png)
-      - [Transparent (Blue)](/logo/company/transparent-blue.png)
-      - [Transparent (White)](/logo/company/transparent-white.png)
+      - [Inverse](/logo/company/inverse.svg)
+      - [Original](/logo/company/original.svg)
+      - [Transparent (Blue)](/logo/company/transparent-blue.svg)
+      - [Transparent (White)](/logo/company/transparent-white.svg)
     - [PawCrumbs](/logo/pawcrumbs/)
       - [Transparent](/logo/pawcrumbs/transparent.png)
       - [White](/logo/pawcrumbs/white.png)
