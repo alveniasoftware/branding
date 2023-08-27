@@ -17,8 +17,8 @@
       - [Transparent (Blue)](/logo/company/transparent-blue.svg)
       - [Transparent (White)](/logo/company/transparent-white.svg)
     - [PawCrumbs](/logo/pawcrumbs/)
-      - [Transparent](/logo/pawcrumbs/transparent.png)
-      - [White](/logo/pawcrumbs/white.png)
+      - [Transparent](/logo/pawcrumbs/transparent.svg)
+      - [White](/logo/pawcrumbs/white.svg)
 - [Taglines](/tagline/)
     - [Company](/tagline/company.md)
 
